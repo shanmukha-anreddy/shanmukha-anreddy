@@ -1,5 +1,44 @@
 # 💫 About Me:
-Anreddy Shanmukha Reddy<br> shanmukhaanreddy@gmail.com ï LinkedIn § GitHub<br>Objective<br>Ambitious B.Tech CSE student at Amrita Vishwa Vidyapeetham, Bengaluru, with strong interest in AI/ML, Deep<br>Learning, Web Development, Time Series Analysis, and Ethical Hacking. Actively building AI-driven projects in<br>real world and eager to contribute to innovative, impact-oriented teams.<br>Education<br>Amrita Vishwa Vidyapeetham, Bengaluru 2022 - 2026<br>Pursuing B.Tech in Computer Science & Engineering <br>Projects<br>Multilingual Legal Outcome Prediction System Source Code<br>• Built an AI-based legal case prediction system using transformer models including T5, XLM-RoBERTa, and mBERT for<br>multilingual classification.<br>• Applied PCA for dimensionality reduction and LIME for model explainability, enhancing both accuracy and<br>transparency. Training and evaluation of the system on various legal datasets to support data-driven judicial analysis.<br>• Led the end-to-end design and implementation as team lead, focusing on ethical AI and real-world legal applicability.<br>DFY [Do For Yourself] – AI-Based Habit Tracking App Source Code<br>• Developed a cross-platform mobile app & behavioral analytics to help users build sustainable personal habits.<br>• Integrated Gemini API to power a conversational AI Coach that delivers real-time habit suggestions, motivational<br>prompts, and adaptive goal-setting.<br>• Designed personalized habit tracking and behavioral nudges based on user profiles and activity patterns.<br>Analysis of Fatalities in Road Accidents Due to Ignorance of Helmets and Seat-Belts Source Code<br>• Analyzed five years of Indian road accident data (2017–2022) using time-series and machine learning models (ARIMA,<br>XGBoost, LSTM) to identify and forecast fatalities caused by helmet and seat-belt non-compliance.<br>• Performed end-to-end data processing and visualization, including data collection from MoRTH, preprocessing with<br>Python (Pandas, NumPy).<br>• Developed an ensemble predictive model (ARIMA + GBM + LSTM) that improved forecasting accuracy (MAPE ≈<br>98.3%) and revealed key temporal and behavioral trends in accident data.<br>Technical Skills<br>Languages: Python, Java, C<br>Backend: Node.js, XAMPP, MySQL, FLASK, Express.js<br>Frontend: React, TailwindCSS, HTML, CSS<br>Developer Tools: VS Code, GitHub<br>Other Skills: Machine Learning, Deep Learning, Data Structures & Algorithms<br>Soft Skills<br>• Strong Communication and Interpersonal Skills<br>• Critical Thinking, Problem Solving and Time Management<br>• Team Collaboration and Conflict Resolution<br>• Adaptability and Quick Learning<br>Achievements & Certifications<br>• Accomplished the publication of 5 research papers presented at reputed international conferences.<br>• Completed the TCS iON Career Edge – Young Professional program, developing soft skills & business etiquette.<br>• Served as Treasurer of Aavishkara (Science & Innovation Forum), managing event budgets and operations including<br>flagship expo PRAKALP’25 with 13+ participating colleges.<br>• Completed a 1 month Data Science training with Corizo, enhancing practical skills in data-driven problem solving.
+👋 Hi, I'm Anreddy Shanmukha Reddy
+
+🚀 B.Tech CSE @ Amrita Vishwa Vidyapeetham, Bengaluru (2022–2026)
+🧠 AI/ML | Deep Learning | Computer Vision | Cybersecurity | Web Development
+📊 CGPA: 7.95/10
+
+🎯 Objective
+
+Ambitious Computer Science student with a strong focus on AI/ML, Deep Learning, and intelligent systems.
+Passionate about building real-world, impact-driven AI solutions and contributing to innovative tech teams.
+
+🧠 About Me
+🔬 Built multiple AI-driven real-world projects
+🤖 Interested in Time Series Analysis + Explainable AI + Ethical AI
+🔐 Exploring AI + Security + Behavioral Systems
+📄 Published 5 Research Papers in international conferences
+🏆 Active in tech leadership (Treasurer @ Aavishkara)
+🚀 Projects
+⚖️ Multilingual Legal Outcome Prediction System
+Built using T5, XLM-RoBERTa, mBERT for multilingual classification
+Applied PCA for dimensionality reduction
+Used LIME for explainability
+Focused on ethical AI for legal decision support
+👨‍💻 Role: Team Lead (end-to-end system design)
+📱 DFY – AI-Based Habit Tracking App
+Cross-platform app with behavioral analytics
+Integrated Gemini API for AI-powered coaching
+Features:
+Personalized habit tracking
+Adaptive goal setting
+Real-time motivational insights
+🚗 Road Accident Fatality Analysis (Time Series + ML)
+Analyzed Indian accident data (2017–2022)
+Models used:
+ARIMA
+XGBoost
+LSTM
+Built ensemble model (ARIMA + GBM + LSTM)
+Achieved high forecasting accuracy (MAPE ≈ 98.3%)
+Tools: Pandas, NumPy, Data Visualization
 
 
 ## 🌐 Socials:
@@ -21,4 +60,6 @@ Anreddy Shanmukha Reddy<br> shanmukhaanreddy@gmail.com ï LinkedIn § GitHub<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=shanmukha-anreddy&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚡ Fun Fact
+
+I love combining AI + Real-world impact + Human behavior to build meaningful tech 🚀
