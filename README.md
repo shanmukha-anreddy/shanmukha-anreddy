@@ -1,44 +1,83 @@
-# 💫 About Me:
-👋 Hi, I'm Anreddy Shanmukha Reddy
+# 👋 Hi, I'm Anreddy Shanmukha Reddy
 
 🚀 B.Tech CSE @ Amrita Vishwa Vidyapeetham, Bengaluru (2022–2026)
 🧠 AI/ML | Deep Learning | Computer Vision | Cybersecurity | Web Development
-📊 CGPA: 7.95/10
 
-🎯 Objective
 
-Ambitious Computer Science student with a strong focus on AI/ML, Deep Learning, and intelligent systems.
-Passionate about building real-world, impact-driven AI solutions and contributing to innovative tech teams.
+---
 
-🧠 About Me
-🔬 Built multiple AI-driven real-world projects
-🤖 Interested in Time Series Analysis + Explainable AI + Ethical AI
-🔐 Exploring AI + Security + Behavioral Systems
-📄 Published 5 Research Papers in international conferences
-🏆 Active in tech leadership (Treasurer @ Aavishkara)
-🚀 Projects
-⚖️ Multilingual Legal Outcome Prediction System
-Built using T5, XLM-RoBERTa, mBERT for multilingual classification
-Applied PCA for dimensionality reduction
-Used LIME for explainability
-Focused on ethical AI for legal decision support
-👨‍💻 Role: Team Lead (end-to-end system design)
-📱 DFY – AI-Based Habit Tracking App
-Cross-platform app with behavioral analytics
-Integrated Gemini API for AI-powered coaching
-Features:
-Personalized habit tracking
-Adaptive goal setting
-Real-time motivational insights
-🚗 Road Accident Fatality Analysis (Time Series + ML)
-Analyzed Indian accident data (2017–2022)
-Models used:
-ARIMA
-XGBoost
-LSTM
-Built ensemble model (ARIMA + GBM + LSTM)
-Achieved high forecasting accuracy (MAPE ≈ 98.3%)
-Tools: Pandas, NumPy, Data Visualization
+## 🧠 About Me
+
+* 🤖 Passionate about AI/ML, Deep Learning & Intelligent Systems
+* 🔬 Built multiple real-world AI-driven projects
+* 📊 Interested in Time Series Analysis + Explainable AI + Ethical AI
+* 🔐 Exploring AI + Security + Behavioral Systems
+* 📄 Published 5 research papers in international conferences
+* 🏆 Treasurer @ Aavishkara (Science & Innovation Forum)
+
+---
+
+## 🚀 Projects
+
+### ⚖️ Multilingual Legal Outcome Prediction System
+
+* Built using **T5, XLM-RoBERTa, mBERT** for multilingual classification
+* Applied **PCA** for dimensionality reduction
+* Used **LIME** for explainability
+* Focused on ethical AI for legal decision support
+* 👨‍💻 Role: Team Lead (end-to-end system design)
+
+---
+
+### 📱 DFY – AI-Based Habit Tracking App
+
+* Cross-platform app with behavioral analytics
+* Integrated **Gemini API** for AI-powered coaching
+* Features:
+
+  * Personalized habit tracking
+  * Adaptive goal setting
+  * Real-time motivational insights
+
+---
+
+### 🚗 Road Accident Fatality Analysis
+
+* Analyzed Indian accident data (2017–2022)
+* Models used: **ARIMA, XGBoost, LSTM**
+* Built ensemble model (**ARIMA + GBM + LSTM**)
+* Achieved high forecasting accuracy (MAPE ≈ 98.3%)
+* Tools: Pandas, NumPy, Data Visualization
+
+---
+
+
+## 📄 Achievements & Certifications
+
+* 📘 Published **10+ research papers** in international conferences
+* 🎓 Completed **TCS iON Career Edge – Young Professional Program**
+* 🏆 Treasurer @ **Aavishkara (Science & Innovation Forum)**
+
+  * Managed operations for **PRAKALP’25 (13+ colleges)**
+* 📊 Completed **Data Science Training (Corizo)**
+
+---
+
+## 💡 Core Strengths
+
+* 🧩 Problem Solving & Critical Thinking
+* 🤝 Team Collaboration & Leadership
+* ⏱️ Time Management
+* ⚡ Adaptability & Quick Learning
+
+---
+
+## ⚡ Fun Fact
+
+I love combining **AI + Real-world Impact + Human Behavior** to build meaningful tech 🚀
+
+---
+
 
 
 ## 🌐 Socials:
@@ -60,6 +99,3 @@ Tools: Pandas, NumPy, Data Visualization
 ---
 [![](https://visitcount.itsvg.in/api?id=shanmukha-anreddy&icon=0&color=2)](https://visitcount.itsvg.in)
 
-⚡ Fun Fact
-
-I love combining AI + Real-world impact + Human behavior to build meaningful tech 🚀
