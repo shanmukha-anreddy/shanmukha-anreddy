@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Anreddy Shanmukha Reddy
 
 🚀 B.Tech CSE @ Amrita Vishwa Vidyapeetham, Bengaluru (2022–2026)
+
+
 🧠 AI/ML | Deep Learning | Computer Vision | Cybersecurity | Web Development
 
 
